@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title> First Trial </title>
+
+<body>
+
+<h1>BBSHADOWS MAKE UP ARTISTRY</h1>
+
+<p>Your life maynot be perfect but your make up can be.</p>
+<p>Our services are top notch and affordable </p>
+
+<h2> OUR SERVICES </h2>
+<p> Make up <br> Lash Extension <br> Gele Tying <br> Make up Training <br> ...And lots more
+
+
+<h3> CONTACT US </h3>
+<p> Whatsapp- 08125591664 Instagram @_bbshadows_Mua Facebook- BBshadows </p> 
+<a href="https://www.bbshadows.com> www.bbshadows.com </a>
+
+<h4> LOCATION </H4>
+<p> Shedrack Avenue Elelenwo PH. </p>
+
+<h5> PRICES fOR MAKE UP </H5>
+<p> Full Glam-30000 </p>
+<p> Everyday Look -17500 </p>
+<p> Beginners - 10000 </p>
+
+<h6> PRICES FOR TRAINING </H6>
+<P> One month 150000 </p>
+
+
+
+</body>
+</html>
+
